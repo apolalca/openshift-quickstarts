@@ -22,7 +22,7 @@
         <profile>
             <id>openshift</id>
             <build>
-                <finalName>travel</finalName>
+                <finalName>cs20</finalName>
                 <plugins>
                     <plugin>
                         <artifactId>maven-war-plugin</artifactId>
